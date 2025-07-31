@@ -469,7 +469,10 @@
                     <p>bisyhub@bisy.co.in
                 <div class="contact-item">
                     <h4>🌐 Website</h4>
-                    <p>www.bisyhub.com<br>Fill The Form To Apply!<br> https://forms.gle/fhcJ3VSxrBpYtbbj9/<p>
+                    <p>www.bisyhub.com<br>Fill The Form To Apply! <p>
+                    <a href="https://forms.gle/fhcJ3VSxrBpYtbbj9" target="_blank">
+                      Click Here – BiSyHUB
+                    </a>
                 <div class="contact-item">
                     <h4>📍 Address</h4>
                     <p>[BiSy Group | 1-1-379/290/a, Jawaharnagar, Ashok Nagar | Hyderabad, Telangana 500020, IN]</p>

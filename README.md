@@ -465,11 +465,7 @@
             <div class="contact-grid">
                 <div class="contact-item">
                     <h4>📧 Email</h4>
-                    <p>info@bisyhub.com<br>admissions@bisyhub.com</p>
-                </div>
-                <div class="contact-item">
-                    <h4>📱 Phone</h4>
-                    <p>+91 XXXXX XXXXX<br>+91 XXXXX XXXXX</p>
+                    <p>bisyhub@bisy.co.in
                 </div>
                 <div class="contact-item">
                     <h4>🌐 Website</h4>

@@ -469,9 +469,9 @@
                     <p>bisyhub@bisy.co.in
                 <div class="contact-item">
                     <h4>🌐 Website</h4>
-                    <p>www.bisyhub.com<br>Fill The Form To Apply! <p>
+                    <p>www.bisyhub.com<br>Fill The Form To Apply!
                     <a href="https://forms.gle/fhcJ3VSxrBpYtbbj9" target="_blank">
-                      Click Here – BiSyHUB
+                      Click Here – BiSyHUB <p>
                     </a>
                 <div class="contact-item">
                     <h4>📍 Address</h4>

@@ -351,6 +351,7 @@
                         <li>Advanced skill mastery</li>
                         <li>12+ Expert workshops</li>
                         <li>Capstone projects</li>
+                        <li>Portfolio building</li>
                         <li>Premium certification</li>
                     </ul>
                 </div>

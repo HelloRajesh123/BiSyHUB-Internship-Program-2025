@@ -469,13 +469,12 @@
                 <div class="contact-item">
                     <h4>🌐 Website</h4>
                     <p>www.bisyhub.com<br>Fill The Form To Apply!<br> https://forms.gle/fhcJ3VSxrBpYtbbj9/<p>
-                </div>
                 <div class="contact-item">
                     <h4>📍 Address</h4>
                     <p>[BiSy Group | 1-1-379/290/a, Jawaharnagar, Ashok Nagar | Hyderabad, Telangana 500020, IN]</p>
             </div>
             <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.3);">
-                <p style="font-size: 1.1rem;"><span class="nature-icon">🌱</span> <strong>"Growing Careers, Nurturing Talent, Building Futures"</strong> <span class="nature-icon">🌱</span></p>
+                <p style="font-size: 1.1rem;"><span class="nature-icon"></span> <strong></strong> <span class="nature-icon"></span></p>
         </div>
         
         <div class="footer">
